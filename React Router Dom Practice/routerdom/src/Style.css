@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,100;1,200&display=swap');
+
+
+.appComponent {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width: 100vw;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.navigation ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0px 30px;
+}
+.navigation li{
+    margin: 0px 10px;
+}
